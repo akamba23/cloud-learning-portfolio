@@ -17,18 +17,3 @@ mv - Moves a file or folder to a new location. (file-management-05.png, file-man
 cp - Copies files or directories. (file-management-03.png , file-management-04.png)
 cat - View, create, and combine file contents directly from the terminal. (file-management-02.png)
 history - Show previously run commands. (system-monitoring.png)
-
-## What I Learned
-Write about what you learned while completing
-the activities.
-
-## Challenges
-Document mistakes you encountered and how
-you solved them.
-
-## Git Practice
-- Created a repository.
-- Created a feature branch.
-- Edited the README.
-- Merged the feature branch into main.
-- Pushed changes to GitHub.
